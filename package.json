@@ -7,12 +7,25 @@
     "name": "haitao yue",
     "email": "hightallyht@hotmail.com"
   },
-  "repository": "hightall/umi-blocks/my-blocks",
+  "repository": "hightall/umi-blocks",
   "scripts": {
     "dev": "umi dev"
   },
   "dependencies": {
-    "react": ">=16.0.0"
+    "@ant-design/pro-cli": "^1.0.5",
+    "@ant-design/pro-layout": "^4.5.11",
+    "@types/react-dom": "^16.8.4",
+    "antd": "3.22.2",
+    "bizcharts": "^3.5.4",
+    "cross-env": "^6.0.0",
+    "numeral": "^2.0.6",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "umi": "^2.8.9",
+    "umi-plugin-block-dev": "^2.2.1",
+    "umi-plugin-react": "^1.9.7",
+    "umi-request": "^1.0.0",
+    "umi-utils": "^1.5.1"
   },
   "devDependencies": {
     "umi": "^2.9.0",
