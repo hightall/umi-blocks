@@ -1,0 +1,23 @@
+{
+  "name": "@umi-block/my-blocks",
+  "version": "0.0.1",
+  "description": "My blocks",
+  "main": "src/index.js",
+  "authors": {
+    "name": "haitao yue",
+    "email": "hightallyht@hotmail.com"
+  },
+  "repository": "hightall/umi-blocks/my-blocks",
+  "scripts": {
+    "dev": "umi dev"
+  },
+  "dependencies": {
+    "react": ">=16.0.0"
+  },
+  "devDependencies": {
+    "umi": "^2.9.0",
+    "umi-plugin-block-dev": "^2.0.0",
+    "umi-types": "^0.3.0"
+  },
+  "license": "MIT"
+}
